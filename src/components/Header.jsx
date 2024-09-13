@@ -1,6 +1,8 @@
 export default function Header() {
     return (
-        <h1>React props lesson</h1>
+        <div class="App-header">
+            <h1>React props lesson</h1>
+        </div>
     )
 }
 
